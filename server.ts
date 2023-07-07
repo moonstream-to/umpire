@@ -1,6 +1,5 @@
 import express, { Request, Response } from 'express';
 import hello from './routes/hello';
-import axios from 'axios';
 require('dotenv').config();
 
 const app = express();
