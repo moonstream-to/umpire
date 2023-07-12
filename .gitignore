@@ -133,3 +133,6 @@ dist
 
 # Typescript build/ directory. This is where transpiled JS files go.
 build/
+
+# Secrets
+.secrets/
